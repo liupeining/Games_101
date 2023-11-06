@@ -1,6 +1,6 @@
 # Games_101
 
-Welcome to the `Games_101` repository, a comprehensive collection of assignments from the Games101 course. This repository is a treasure trove of detailed code annotations, clarifications on common pitfalls, and showcases of expected results. Whether you're a student of the course or an enthusiast looking to understand the intricacies of game development, this repository serves as a resource.
+Welcome to the `Games_101` repository, a comprehensive collection of assignments from the Games101 course. This repository contains detailed code annotations, clarifications on common pitfalls, and showcases of expected results. Whether you're a student of the course or an enthusiast looking to understand the intricacies of game development, this repository serves as a resource.
 
 ## Assignments Overview
 
